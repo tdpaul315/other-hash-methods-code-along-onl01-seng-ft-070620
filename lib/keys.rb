@@ -15,3 +15,4 @@ end
 
 get_the_keys(groceries)
 
+puts groceries.keys
